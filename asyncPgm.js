@@ -9,3 +9,4 @@ const myFunction = () => {
 }
 
 myFunction();
+// test 1
